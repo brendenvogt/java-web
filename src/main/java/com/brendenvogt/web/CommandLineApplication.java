@@ -13,7 +13,7 @@ public class CommandLineApplication implements CommandLineRunner {
     @Autowired
     private PersonRepository repository;
 
-    public static void main(String[] args) {
+    private static void main(String[] args) {
         SpringApplication.run(CommandLineApplication.class, args);
     }
 
