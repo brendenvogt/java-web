@@ -12,3 +12,7 @@ Simple Java Spring Web project as a playground
 curl -X GET "localhost:8080/hello?name=Brenden"
 # Hello Brenden!%
 ```
+
+## References
+- https://spring.io/quickstart
+- https://spring.io/guides/gs/rest-service/
